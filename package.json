@@ -1,0 +1,16 @@
+{
+  "name": "com.zerobject.lattributes",
+  "displayName": "Lattributes",
+  "version": "0.1.0",
+  "unity": "6000.1",
+  "description": "Simple Unity-attributes pack.",
+  "keywords": [
+    "Attributes",
+    "Inspector",
+    "Editor tools"
+  ],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/zerobject/lattributes/Documentation~/README.md",
+  "changelogUrl": "https://github.com/zerobject/lattributes/releases",
+  "licensesUrl": "https://github.com/zerobject/laboost/blob/main/LICENSE"
+}

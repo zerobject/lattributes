@@ -1,0 +1,18 @@
+{
+    "name": "Zerobject.Lattributes.Editor",
+    "rootNamespace": "Zerobject.Lattributes.Editor",
+    "references": [
+        "GUID:290805938a02db44fb820183aee975e4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
